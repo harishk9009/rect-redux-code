@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "user": {
+        "gender": "Male",
+        "name": {
+          "title": "Mr",
+          "first": "Harish",
+          "last": "K"
+        },
+        "email": "test1@gmail.com",
+        "username": "harish",
+        "password": "123456",
+        "dob": "25/03/1990",
+        "phone": "123456789"
+      }
+    },
+    {
+      "user": {
+        "gender": "Male",
+        "name": {
+          "title": "Mr",
+          "first": "Sooraj",
+          "last": "K"
+        },
+        "email": "test2@gmail.com",
+        "username": "sooraj",
+        "password": "123457",
+        "dob": "25/03/1990",
+        "phone": "123456781"
+      }
+    }
+  ]
+}
